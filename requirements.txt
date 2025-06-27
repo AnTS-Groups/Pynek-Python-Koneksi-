@@ -1,0 +1,7 @@
+mysql-connector-python
+requests
+Flask
+psutil
+colorama
+pywin32
+pyinstaller
