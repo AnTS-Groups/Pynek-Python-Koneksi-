@@ -1,9 +1,21 @@
 # Pynek Python Koneksi
 
-Pynek(Python Koneksi) adalah python program open source untuk koneksikan MYSQL,Apache,aktifkan SSL,Jalankan PHP dan Jalankan Flask web framework
+Pynek(Python Koneksi) adalah python program open source untuk koneksikan MYSQL,Apache,aktifkan SSL,Jalankan PHP dan Jalankan Flask web framework.
+
+![Tampilan Pynek 1](https://github.com/AnTS-Groups/Pynek-Python-Koneksi-/blob/projects/Hasil%20tampilan/SS1.png?raw=true)
+
+![Tampilan Pynek 2](https://github.com/AnTS-Groups/Pynek-Python-Koneksi-/blob/projects/Hasil%20tampilan/SS2.png?raw=true)
+![Tampilan Pynek 3](https://github.com/AnTS-Groups/Pynek-Python-Koneksi-/blob/projects/Hasil%20tampilan/SS3.png?raw=true)
+![Tampilan Pynek 4](https://github.com/AnTS-Groups/Pynek-Python-Koneksi-/blob/projects/Hasil%20tampilan/SS4.png?raw=true)
+
+
 
 [Download Setup Installation and File Exe](https://github.com/AnTS-Groups/Pynek-Python-Koneksi-/releases/tag/1.0.0.0)
-[Branch Project]()
+
+
+[Branch Project](https://github.com/AnTS-Groups/Pynek-Python-Koneksi-/tree/projects)
+
+
 Feature:
 1. Koneksikan Mysql.
 2. Koneksikan Apache.
